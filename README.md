@@ -13,6 +13,7 @@
 - 🌱 I’m currently learning <a href="https://playwright.dev/" rel="nofollow">Playwright</a>
 
 <h2 dir="auto"></h2>
+
 ### 💼 Skills
 
 - Unit Test
@@ -23,6 +24,7 @@
 - Smoke test
 - BDD / Gherkin
 <h2 dir="auto"></h2>
+
 ### 🛠️ Testing Tools
 
 <a href="https://www.postman.com/" rel="nofollow"> <img alt="postman" height="40" width="40" src="https://camo.githubusercontent.com/9f1ca3b98fb55939fd8e45b6299cc9dfee7163ec9f663fd6f43fc5cfda3c118f/68747470733a2f2f7777772e7376677265706f2e636f6d2f646f776e6c6f61642f3335343230322f706f73746d616e2d69636f6e2e737667" data-canonical-src="https://www.svgrepo.com/download/354202/postman-icon.svg" style="max-width: 100%;">
@@ -31,7 +33,9 @@
 </a>
 <a href="https://www.selenium.dev/" rel="nofollow"> <img alt="selenium" height="40" width="40" src="https://camo.githubusercontent.com/23db4cf88995cc1792f8ba7d387050cdabe3c491207910db64b305c05f0b93ba/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f642f64352f53656c656e69756d5f4c6f676f2e706e67" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" style="max-width: 100%;">
 </a>
+
 <h2 dir="auto"></h2>
+
 ### 💾 Databases
 
 <a href="https://www.mongodb.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" style="max-width: 100%;"> </a>
