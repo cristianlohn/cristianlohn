@@ -8,7 +8,7 @@
 
 <h2 dir="auto"></h2>
 
-- 🔭 I’m currently working on <a href="https://somosquiq.com/" rel="nofollow">Quiq</a>
+- 🔭 I’m currently working on <a href="https://www.totvs.com/" rel="nofollow">TOTVS</a>
 - 🌱 I’m currently learning English at <a href="https://www.notika.com.br/" rel="nofollow">Notika</a>
 - 🌱 I’m currently learning <a href="https://playwright.dev/" rel="nofollow">Playwright</a>
 
