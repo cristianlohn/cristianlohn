@@ -16,6 +16,7 @@ Software quality, functional testing and test automation. This portfolio brings 
 
 | Project | What you will find | Technologies |
 | --- | --- | --- |
+| [Acelera Auto CRM — Product & QA](https://github.com/cristianlohn/acelera-auto-crm-portfolio) | A functional dealership CRM I created, including its automated tests. Bilingual case study, public Playwright scenarios and an independent QA validation pipeline. Commercial application source remains private. | Next.js, React, TypeScript, Supabase, Playwright, GitHub Actions |
 | [ScreenHoard](https://github.com/cristianlohn/ScreenHoard) | Windows utility with clipboard history, screenshots, GIF evidence recording, OCR and visual inspection tools. [Downloads](https://github.com/cristianlohn/ScreenHoard/releases) · [User guide](https://github.com/cristianlohn/ScreenHoard/blob/main/USER_GUIDE.md) | Tauri, Rust, React, TypeScript, SQLite |
 | [Playwright MarkL](https://github.com/cristianlohn/playwright-markL) | Task creation, completion and deletion; duplicate and required-field validation; Page Objects, fixtures and API-based test data setup. | Playwright, TypeScript |
 | [Cypress API automation example](https://github.com/cristianlohn/Cypress-auto-run-example) | Service and test logic layers, reporting configuration and an Azure DevOps pipeline file. | Cypress, TypeScript, Mochawesome, JUnit Reporter |
@@ -62,6 +63,7 @@ Qualidade de software, testes funcionais e automação. Este portfólio reúne p
 
 | Projeto | O que você encontra | Tecnologias |
 | --- | --- | --- |
+| [Acelera Auto CRM — Produto & QA](https://github.com/cristianlohn/acelera-auto-crm-portfolio) | CRM funcional para revendas que eu criei, incluindo os testes automatizados. Estudo de caso bilíngue, cenários Playwright públicos e esteira independente de validação. Código da aplicação comercial privado. | Next.js, React, TypeScript, Supabase, Playwright, GitHub Actions |
 | [ScreenHoard](https://github.com/cristianlohn/ScreenHoard) | Utilitário para Windows com histórico da área de transferência, capturas de tela, evidências em GIF, OCR e inspeção visual. [Downloads](https://github.com/cristianlohn/ScreenHoard/releases) · [Manual](https://github.com/cristianlohn/ScreenHoard/blob/main/USER_GUIDE.md) | Tauri, Rust, React, TypeScript, SQLite |
 | [Playwright MarkL](https://github.com/cristianlohn/playwright-markL) | Cadastro, conclusão e exclusão de tarefas; validações de duplicidade e campo obrigatório; Page Objects, fixtures e preparação de dados por API. | Playwright, TypeScript |
 | [Exemplo de automação de API com Cypress](https://github.com/cristianlohn/Cypress-auto-run-example) | Organização em serviços e lógica de testes, configuração de relatórios e arquivo de pipeline para Azure DevOps. | Cypress, TypeScript, Mochawesome, JUnit Reporter |
